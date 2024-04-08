@@ -73,6 +73,6 @@ def extract_cards(input_image_path, output_folder):
             card_count += 1
 
 # Example usage
-input_image_path = "2.jpg"
-output_folder = "extracted_cards"
+input_image_path = "1.jpg"
+output_folder = "extracted_cards_1"
 extract_cards(input_image_path, output_folder)
